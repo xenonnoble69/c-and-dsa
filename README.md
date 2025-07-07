@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🚀 Ultimate C++ & Data Structures Mastery Course
 
 [![C++ Version](https://img.shields.io/badge/C++-17/20-blue?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
